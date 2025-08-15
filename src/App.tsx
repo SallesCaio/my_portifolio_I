@@ -1,10 +1,10 @@
-
+import Hero from './pages/Home/Home.tsx'
 
 const App = () => {
 
   return (
     <>
-      App
+      <Hero />
     </>
   )
 }
